@@ -1,0 +1,28 @@
+/* This just makes it nicer for dark theme
+body {
+    background-color: rgb(32, 32, 32);
+    color: rgb(231, 231, 231);
+}
+*/
+
+
+p {
+    background-color:rgb(231, 168, 168);
+    font-family: Verdana, DejaVu, sans-serif;
+}
+
+#number2 {
+    color:hsl(240, 100%, 50%);
+    font-size: 36px;
+}
+
+.cooler {
+    font-size: 24px;
+}
+
+
+#number4 {
+    background-color:#90ee90;
+    font-size: 24px;
+    font-weight: bold;
+}
